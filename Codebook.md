@@ -84,7 +84,7 @@ values for activity are:
 * magnitude - the variable measures the magnitude of the movement or not
 * direction - the variable measures movement in the x, y, or z direction
 
-Codebook for tidyavg dataset
+Codebook for tidyavg dataset (TO SEE THE TABLE CLEARLY LOOK IN 'RAW' MODE)
 
 
 |    | variables                | class     | min.value | max.value | measure     | domain | accgyro     | signal  | jerk | magnitude | direction |
